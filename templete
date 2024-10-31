@@ -30,39 +30,62 @@
 </head>
 
 <body>
-    <h1>王志高的主页</h1>
-    <ul>
-        <li>
-            <a href="./article1/a1.html">关于历史的理解</a>
-        </li>
-        <li>
-            <a href="./article1/a2.html">tiktok 电商</a>
-        </li>
-    </ul>
+    <center>
+        <h1>Tiktok 电商</h1>
+        2024-10-31
+    </center>
+    <br>
+    <br>
 
-    <ul>
+    <ol>
         <li>
-            2024-10-31 <br>
-            <ul>
-                <li>看 https://www.youtube.com/@TikTokEthan/videos 所有的电商视频</li>
-                <li>看 2h 资治通鉴</li>
-                <li>运动30分</li>
-            </ul>
+            <h2>选品</h2>
         </li>
 
+        <table border="0">
+            <tr>
+                <th>1</th>
+                <th>2</th>
+                <th>3</th>
+            </tr>
+            <tr>
+                <td>高客单价格（大魔哥的公式：品的价格 - 进货成本 - 运营成本 > 25% ）</td>
+                <td>高复购率</td>
+                <td>高复购率</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>有边界效应</td>
+            </tr>
+
+        </table>
+
+
 
 
         <li>
-            <strong>DEADLINE</strong> <br>
-            2024-11-03 -- 2024-11-04
-            <ul>
-                <li>简历优化</li>
-            </ul>
-            <ul>
-                <li>投递简历</li>
-            </ul>
+            <h2>运营</h2>
         </li>
-    </ul>
+        <h3>流量入口</h3>
+        <ol>
+            <li>短视频挂小黄车带货</li>
+            <li>直播挂小黄车带货</li>
+            <li>搜索</li>
+            <li>付费投流量</li>
+        </ol>
+        <li>
+            <h2>发货与售后</h2>
+        </li>
+
+        <li>
+            <h2>业务与组织架构</h2>
+        </li>
+
+        <h3>行业人员分类</h3>
+        <br>
+        * 阅读淘宝电商发展历史
+    </ol>
 
 </body>
 
