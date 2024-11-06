@@ -26,66 +26,116 @@
             });
         });
     </script>
-    <title>Wang Zhigao's Homepage</title>
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            border-style: dotted;
+        }
+
+        body {
+            margin: 25px 300px 300px 300px;
+        }
+    </style>
+    <title>每日计划安排</title>
 </head>
 
+<h1>日常计划</h1>
+
 <body>
+
     <center>
-        <h1>Tiktok 电商</h1>
-        2024-10-31
-    </center>
-    <br>
-    <br>
 
-    <ol>
-        <li>
-            <h2>选品</h2>
-        </li>
+        <table border="1">
 
-        <table border="0">
+
             <tr>
-                <th>1</th>
-                <th>2</th>
-                <th>3</th>
+                <td>
+                    <h3> <em>2024-10-31</em> </h3>
+                </td>
+                <td>
+                    <ol>
+                        <li>看 https://www.youtube.com/@TikTokEthan/videos 所有的电商视频</li>
+                        <li> <del> 看 2h 资治通鉴 </del> </li>
+                        <li>运动30分</li>
+                    </ol>
+                </td>
             </tr>
+
             <tr>
-                <td>高客单价格（大魔哥的公式：品的价格 - 进货成本 - 运营成本 > 25% ）</td>
-                <td>高复购率</td>
-                <td>高复购率</td>
+                <td>
+                    <h3> <em>2024-11-03</em> </h3>
+                </td>
+                <td>
+                    <ol>
+                        <li>看跨境电商运营视频 看91运营网</li>
+                        <li>看 1.5 h 资治通鉴</li>
+                    </ol>
+                </td>
             </tr>
+
             <tr>
-                <td></td>
-                <td></td>
-                <td>有边界效应</td>
+                <td>
+                    <h3> <em>2024-11-06</em> </h3>
+                </td>
+                <td>
+                    <ol>
+                        <li>看资治通鉴 《汉纪一》</li>
+                        <li>看 1/2 Ethan 学长的视频
+                            <ol>
+                                <li>注意听核心问题，不听故事</li>
+                                <li>笔记内容，最后整理</li>
+                            </ol>
+                        </li>
+                    </ol>
+                </td>
             </tr>
+
+            <tr>
+                <td>
+                    <h3> <em>2024-11-07</em> </h3>
+                </td>
+                <td>
+                    <ol>
+                        <li>看资治通鉴 《汉纪二》</li>
+                        <li>看剩余 1/2 Ethan 学长的视频
+                            <ol>
+                                <li>注意听核心问题，不听故事</li>
+                                <li>笔记内容，最后整理</li>
+                            </ol>
+                        </li>
+                    </ol>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <h3> <em>2024-11-07</em> </h3>
+                </td>
+                <td>
+                    <ol>
+                        <li>找人优化简历</li>
+                    </ol>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <h3> <em>2024-11-XX</em> </h3>
+                    （简历优化完之后）
+                </td>
+                <td>
+                    <ol>
+                        <li>投递简历并面试</li>
+                    </ol>
+                </td>
+            </tr>
+
 
         </table>
-
-
-
-
-        <li>
-            <h2>运营</h2>
-        </li>
-        <h3>流量入口</h3>
-        <ol>
-            <li>短视频挂小黄车带货</li>
-            <li>直播挂小黄车带货</li>
-            <li>搜索</li>
-            <li>付费投流量</li>
-        </ol>
-        <li>
-            <h2>发货与售后</h2>
-        </li>
-
-        <li>
-            <h2>业务与组织架构</h2>
-        </li>
-
-        <h3>行业人员分类</h3>
-        <br>
-        * 阅读淘宝电商发展历史
-    </ol>
+    </center>
 
 </body>
 
