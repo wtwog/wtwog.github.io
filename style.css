@@ -1,0 +1,40 @@
+body {
+    margin: 25px 300px 300px 300px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-style: dotted;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+p {
+    text-indent: 2em;
+}
+
+div {
+    border: 2px solid black;
+    background-color: white;
+}
