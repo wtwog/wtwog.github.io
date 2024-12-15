@@ -38,3 +38,22 @@ div {
     border: 2px solid black;
     background-color: white;
 }
+
+
+.mark{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-width: 1px;
+    border-color: green;
+    margin-right: 100px;
+
+    p {
+        text-indent: 0;
+        color: red;
+        font-size: small; 
+    }
+
+}
+
+
+
